@@ -35,7 +35,7 @@
 <p align="left">
 
 - Email: [saveshit8@gmail.com](https://gmail.com)
-- Telegram: [@bro_joke](https://t.me/er_rb/)
+- Telegram: [@bro_joke](https://t.me/bro_joke/)
 
 ### You can see my projects in pinned repositories!
 
