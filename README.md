@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I like to write code
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡  Fun fact The Firefox logo isn’t a fox… it’s a **red panda!**
 
 ## 🚀 Languages and Tools:
 
@@ -26,6 +26,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.charcxcxctjs.org/" target="_blank"> <img src="https://scicoding.com/content/images/2021/09/chartjs-logo-1.svg" width="45" height="45"/> </a>
 </p>
 </p>
 
@@ -34,7 +35,7 @@
 ## Connect with me:
 <p align="left">
 
-- Email: [saveshit8@gmail.com](https://gmail.com)
+- Email: [mihailmatalin@gmail.com](https://gmail.com)
 - Telegram: [@bro_joke](https://t.me/bro_joke/)
 
 ### You can see my projects in pinned repositories!
