@@ -36,7 +36,7 @@
 <p align="left">
 
 - Email: [mihailmatalin@gmail.com](https://gmail.com)
-- Telegram: [@bro_joke](https://t.me/bro_joke/)
+- Telegram: [@Michail_JS](https://t.me/Michail_JS/)
 
 ### You can see my projects in pinned repositories!
 
